@@ -1,4 +1,4 @@
-# native-feel-mobile
+# Native Feel Mobile
 
 A checklist and playbook for making a responsive web app (Capacitor, Cordova or installed PWA) behave like a native mobile app: back gesture/button, pull-to-refresh, safe areas, keyboard, touch feel, offline and app lifecycle.
 
